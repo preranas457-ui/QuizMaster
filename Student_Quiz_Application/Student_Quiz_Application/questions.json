@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {
+            "A": "function",
+            "B": "def",
+            "C": "fun",
+            "D": "define"
+        },
+        "answer": "B",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 2,
+        "question": "Which data type stores whole numbers?",
+        "options": {
+            "A": "float",
+            "B": "str",
+            "C": "int",
+            "D": "bool"
+        },
+        "answer": "C",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 3,
+        "question": "What is the output of print(2 ** 3)?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "9",
+            "D": "5"
+        },
+        "answer": "B",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 4,
+        "question": "Which collection stores key-value pairs?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Set",
+            "D": "Dictionary"
+        },
+        "answer": "D",
+        "category": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 5,
+        "question": "Which symbol starts a single-line comment in Python?",
+        "options": {
+            "A": "//",
+            "B": "#",
+            "C": "/*",
+            "D": "--"
+        },
+        "answer": "B",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 6,
+        "question": "Which function gets the number of items in a list?",
+        "options": {
+            "A": "count()",
+            "B": "size()",
+            "C": "len()",
+            "D": "total()"
+        },
+        "answer": "C",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 7,
+        "question": "What is the index of the first item in a Python list?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "-1",
+            "D": "It depends"
+        },
+        "answer": "A",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 8,
+        "question": "Which loop is commonly used to iterate over a sequence?",
+        "options": {
+            "A": "repeat",
+            "B": "for",
+            "C": "loop",
+            "D": "each"
+        },
+        "answer": "B",
+        "category": "Python",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 9,
+        "question": "Which statement handles an exception?",
+        "options": {
+            "A": "if/else",
+            "B": "for/in",
+            "C": "try/except",
+            "D": "def/return"
+        },
+        "answer": "C",
+        "category": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 10,
+        "question": "Which file mode opens a file for reading?",
+        "options": {
+            "A": "r",
+            "B": "w",
+            "C": "a",
+            "D": "x"
+        },
+        "answer": "A",
+        "category": "Python",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 11,
+        "question": "What does GUI stand for?",
+        "options": {
+            "A": "General User Internet",
+            "B": "Graphical User Interface",
+            "C": "Global Utility Input",
+            "D": "Graphical Universal Integration"
+        },
+        "answer": "B",
+        "category": "Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 12,
+        "question": "Which Python package is used here to build the desktop interface?",
+        "options": {
+            "A": "NumPy",
+            "B": "Tkinter",
+            "C": "Pandas",
+            "D": "Flask"
+        },
+        "answer": "B",
+        "category": "Python GUI",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 13,
+        "question": "Which data format is used to store this application's questions?",
+        "options": {
+            "A": "MP3",
+            "B": "PNG",
+            "C": "JSON",
+            "D": "CSS"
+        },
+        "answer": "C",
+        "category": "Data",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 14,
+        "question": "Which of these is an example of an operating system?",
+        "options": {
+            "A": "Linux",
+            "B": "HTML",
+            "C": "Python",
+            "D": "MySQL"
+        },
+        "answer": "A",
+        "category": "Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 15,
+        "question": "What is the main purpose of a database?",
+        "options": {
+            "A": "Draw pictures",
+            "B": "Store and organize data",
+            "C": "Play audio",
+            "D": "Compile code"
+        },
+        "answer": "B",
+        "category": "Database",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 16,
+        "question": "Which SQL command retrieves data from a table?",
+        "options": {
+            "A": "INSERT",
+            "B": "UPDATE",
+            "C": "SELECT",
+            "D": "DELETE"
+        },
+        "answer": "C",
+        "category": "Database",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 17,
+        "question": "What does CPU stand for?",
+        "options": {
+            "A": "Central Processing Unit",
+            "B": "Computer Personal Utility",
+            "C": "Central Program User",
+            "D": "Control Processing Usage"
+        },
+        "answer": "A",
+        "category": "Computing",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 18,
+        "question": "Which number system uses only 0 and 1?",
+        "options": {
+            "A": "Decimal",
+            "B": "Octal",
+            "C": "Hexadecimal",
+            "D": "Binary"
+        },
+        "answer": "D",
+        "category": "Computing",
+        "difficulty": "Easy"
+    }
+]
